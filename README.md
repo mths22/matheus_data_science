@@ -46,5 +46,5 @@ These are some of the main skills I’ve developed by working on real-world data
 ---
 
 Thanks for stopping by! 🚀  
-Feel free to check out my projects and connect with me on [LinkedIn](#) or reach out if you'd like to collaborate or chat about data.
+Feel free to check out my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/matheus-cavalcanti-b413361b8/) or reach out if you'd like to collaborate or chat about data.
 
