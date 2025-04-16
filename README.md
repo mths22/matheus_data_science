@@ -39,7 +39,7 @@ These are some of the main skills I’ve developed by working on real-world data
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,sklearn,tensorflow,pytorch,aws,spark,bash" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,sklearn,tensorflow,pytorch,aws,bash" />
 </p>
 
 
