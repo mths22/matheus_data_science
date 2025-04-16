@@ -39,29 +39,11 @@ These are some of the main skills I’ve developed by working on real-world data
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-R-333333?style=flat&logo=r" />
-  <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau" />
-  <img src="https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib" />
-  <img src="https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn" />
-  <img src="https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly" />
-  <img src="https://img.shields.io/badge/-Scikit_Learn-333333?style=flat&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras" />
-  <img src="https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch" />
-  <img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=apache-hadoop" />
-  <img src="https://img.shields.io/badge/-Spark-333333?style=flat&logo=apachespark" />
-  <img src="https://img.shields.io/badge/-Hive-333333?style=flat&logo=apachehive" />
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/-Agile-333333?style=flat&logo=agile" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,git,tableau,matplotlib,seaborn,plotly,sklearn,tensorflow,keras,pytorch,aws,hadoop,spark,hive,docker" />
 </p>
 
 ---
 
 Thanks for stopping by! 🚀  
-Feel free to check out my projects and connect with me on [LinkedIn](#) or reach out if you'd like to collaborate or chat about data. 
+Feel free to check out my projects and connect with me on [LinkedIn](#) or reach out if you'd like to collaborate or chat about data.
 
--
