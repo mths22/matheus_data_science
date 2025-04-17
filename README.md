@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Matheus
+# Hi, I'm Matheus
 
 Hello! I'm Matheus, a 22-year-old recent Business graduate who is passionate about data and how powerful it can be for making smarter business decisions.  
 
@@ -6,7 +6,7 @@ This GitHub profile is where I showcase projects that demonstrate my skills in d
 
 ---
 
-## 📁 What You’ll Find Here
+## What You’ll Find Here
 
 Each repository contains a `README.md` file explaining:
 - The **goal** of the project
@@ -24,7 +24,7 @@ I use Git for version control and push all updates from my local `.git` folder t
 
 ---
 
-## 🧠 Skills and Tools
+## Skills and Tools
 
 These are some of the main skills I’ve developed by working on real-world data projects:
 
@@ -45,6 +45,6 @@ These are some of the main skills I’ve developed by working on real-world data
 
 ---
 
-Thanks for stopping by! 🚀  
+Thanks for stopping by!   
 Feel free to check out my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/matheus-cavalcanti-b413361b8/) or reach out if you'd like to collaborate or chat about data.
 
